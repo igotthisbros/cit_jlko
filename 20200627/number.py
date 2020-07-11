@@ -4,7 +4,7 @@
 # if (num%2 == 0):
 #     print("EVEN")
 num = 1770
-if ni, % 2 == 0 :
+if num, % 2 == 0 :
     print("even")
     if num > 1000:
         print("K")
