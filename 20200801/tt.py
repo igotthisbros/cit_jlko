@@ -1,4 +1,4 @@
-from turtle import *
+wfrom turtle import *
 
 # forward(300)
 # left(120)
